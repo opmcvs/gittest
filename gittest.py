@@ -7,3 +7,5 @@ df2 = pd.read_csv(r'C:\Users\HP\Downloads\LOTR 2.csv')
 newname = input("enter name")
 #Entered new info for git
 Thisisatest = "Test"
+
+thisisanothertest = "Test"
